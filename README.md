@@ -1,9 +1,1 @@
-## Hi there 👋
-
-<!--
-**bnorms/bnorms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning how to use GitHub
-- 😄 Pronouns: he/him
+## Hello there! I'm studying Computer Science and Music Technology at Northeastern
